@@ -41,6 +41,8 @@ dist/
 venv/
 .venv/
 env/
+stub/
+coreloopsenv/
 ENV/
 .ipynb_checkpoints/
 *.ipynb_checkpoint
